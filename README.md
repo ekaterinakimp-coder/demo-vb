@@ -1,5 +1,5 @@
 # Color Pallette Generator
-## podzaglavie
+## Генериране на цветови скали от изображение по избор за използване за легенда на CLC
 
 **udebelen tekst**
 
