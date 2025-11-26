@@ -1,2 +1,6 @@
-# demo-vb
-Това е примерно задание помо6t
+# Color Pallette Generator
+## podzaglavie
+
+**udebelen tekst**
+
+*naklonen tekst*
